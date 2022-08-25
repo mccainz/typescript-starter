@@ -1,6 +1,6 @@
 import {describe, expect, test} from '@jest/globals'
 
-describe('testing Dice rolls', () => {
+describe('JEST...', () => {
     test('Testing Jest integration...', () => {
             expect('hello world').toEqual('hello world');
     });
